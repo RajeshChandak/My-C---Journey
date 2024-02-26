@@ -3,11 +3,14 @@ using namespace std;
 
 int main()
 {
+  //Inputs the size of pattern i.e Number of Rows.
   int i = 1;
   int n;
   cout << "Enter Size :-";
   cin >> n;
 
+  //i->row no.
+  //j->column no.
   while (i <= n)
   {
     int j = 1;
