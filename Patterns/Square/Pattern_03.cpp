@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
   {
-  //Inputs the size of pattern i.e Number of Rows...
+  //Inputs the size of pattern i.e Number of Rows....
   int n;
   cout<<"Enter Size:- ";
   cin>>n;
