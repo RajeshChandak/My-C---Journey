@@ -1,7 +1,9 @@
 
 As a BCA student I have started learning C++ and uploading my learnings on this repo.
+<br>
 AUTHOR:- Rajesh Chandak
-Source Of Learning:- codeitup  (https://youtu.be/oYyi4aCaQxM?si=ecfTuSmXxONSYBQd) 
-                  :- CodeHelp- by Babbar (https://youtu.be/WQoB2z67hvY?si=HdrGQzzFU698hGjJ) 
-                  :- GeeksForGeeks  (https://www.geeksforgeeks.org)
-                  :- & Self :)
+<br>
+Source Of Learning <br> :- codeitup  (https://youtu.be/oYyi4aCaQxM?si=ecfTuSmXxONSYBQd) <br>
+                  :- CodeHelp- by Babbar (https://youtu.be/WQoB2z67hvY?si=HdrGQzzFU698hGjJ) <br>
+                  :- GeeksForGeeks  (https://www.geeksforgeeks.org) <br>
+                  :- & Self :)<br>
