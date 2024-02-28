@@ -19,7 +19,7 @@ int main()
     for(int j=1;j<=i;j++)
     {
       // ASCII of 'A' -> 65
-      ch=65+n-i+j-1;
+      ch=65+i+j-2;
       cout<<ch<<"  ";
     }
     cout<<endl;
